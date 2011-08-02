@@ -10,8 +10,8 @@ Installation
 
 You can install ComponentManager using the [PEAR Installer](http://pear.php.net). This installer is the community's de-facto standard for distributing PHP components.
 
-    sudo pear channel-discover pear.gradwell.com
-    sudo pear install --alldeps Gradwell/ComponentManager
+    sudo pear channel-discover pear.phix-project.org
+    sudo pear install --alldeps phix/ComponentManager
 
 After installation, you will find the code inside your local PEAR repository, which on Linux systems is normally /usr/share/php.
 
@@ -65,7 +65,7 @@ If you want to patch or enhance this component, you will need to create a suitab
 You can then clone the git repository:
 
     # ComponentManager
-    git clone git://github.com/Gradwell/ComponentManager.git
+    git clone git://github.com/stuartherbert/ComponentManager.git
 
 You will then need to populate the vendor folder, to build a local copy of all of the dependencies for 
 

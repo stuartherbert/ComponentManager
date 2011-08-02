@@ -11,7 +11,7 @@
   </description>
   <lead>
     <name>Stuart Herbert</name>
-    <user>stuartherbet</user>
+    <user>stuart</user>
     <email>stuart@stuartherbert.com</email>
     <active>yes</active>
   </lead>
@@ -44,32 +44,32 @@ ${contents}
       </pearinstaller>
       <package>
         <name>ComponentManagerPhpLibrary</name>
-        <channel>pear.gradwell.com</channel>
-        <min>1.2.0</min>
-        <max>1.999.9999</max>
+        <channel>pear.phix-project.org</channel>
+        <min>2.0.0</min>
+        <max>2.999.9999</max>
       </package>
       <package>
         <name>ComponentManagerPhpDocbook</name>
-        <channel>pear.gradwell.com</channel>
-        <min>1.0.1</min>
-        <max>1.999.9999</max>
+        <channel>pear.phix-project.org</channel>
+        <min>2.0.0</min>
+        <max>2.999.9999</max>
       </package>
       <package>
         <name>ComponentManagerPhpWebapp</name>
-        <channel>pear.gradwell.com</channel>
-        <min>1.0.1</min>
-        <max>1.999.9999</max>
+        <channel>pear.phix-project.org</channel>
+        <min>2.0.0</min>
+        <max>2.999.9999</max>
       </package>
       <package>
         <name>ComponentManagerShared</name>
-        <channel>pear.gradwell.com</channel>
-        <min>1.0.3</min>
-        <max>1.999.9999</max>
+        <channel>pear.phix-project.org</channel>
+        <min>2.0.0</min>
+        <max>2.999.9999</max>
       </package>
       <package>
         <name>phix</name>
-        <channel>pear.gradwell.com</channel>
-        <min>0.11.1</min>
+        <channel>pear.phix-project.org</channel>
+        <min>0.13.0</min>
         <max>1.999.9999</max>
       </package>
     </required>
