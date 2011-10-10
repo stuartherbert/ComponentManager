@@ -1,6 +1,14 @@
 ComponentManager
 ================
 
+**NOTE** This repo is now obsolete.  I've left it online for historical
+purposes only.  I will probably delete it at some point.
+
+You probably want [phix4componentdev](http://github.com/stuartherbert/phix4componentdev) instead.
+
+Original Introduction
+---------------------
+
 ComponentManager adds commands to phix to help you create and maintain a variety of PHP components.
 
 To learn more about PHP components, Google for 'Beyond Frameworks'.
