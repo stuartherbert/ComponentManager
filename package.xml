@@ -43,7 +43,7 @@ ${contents}
         <name>ComponentManagerPhpLibrary</name>
         <channel>pear.phix-project.org</channel>
         <min>2.2.0</min>
-        <max>2.999.9999</max>
+        <max>9999.999.9999</max>
       </package>
       <!--package>
         <name>ComponentManagerPhpDocbook</name>
@@ -61,13 +61,13 @@ ${contents}
         <name>ComponentManagerShared</name>
         <channel>pear.phix-project.org</channel>
         <min>2.2.0</min>
-        <max>2.999.9999</max>
+        <max>9999.999.9999</max>
       </package>
       <package>
         <name>phix</name>
         <channel>pear.phix-project.org</channel>
         <min>0.13.0</min>
-        <max>1.999.9999</max>
+        <max>9999.999.9999</max>
       </package>
     </required>
   </dependencies>
